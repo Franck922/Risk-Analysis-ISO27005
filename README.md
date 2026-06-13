@@ -32,7 +32,7 @@ L'étude a suivi les étapes normatives pour transformer des menaces théoriques
 3.  **Évaluation de la Criticité** : Estimation de l'Impact et de la Vraisemblance via une matrice 4x4.
 
 ### 📊 Visualisation de l'Analyse
-![Matrice d'acceptabilité des risques](./images/matrice-risques.png)
+![Matrice d'acceptabilité des risques](./images/matrice-acceptabilite.png)
 *Figure 1 : Matrice d'évaluation Impact x Vraisemblance utilisée pour l'étude.*
 
 ### Exemples de Scénarios de Risque identifiés :
