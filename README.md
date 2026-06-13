@@ -22,4 +22,4 @@ L'analyse a été menée selon le cycle itératif de l'ISO 27005 :
 *   **Suivi** : Définition d'indicateurs (KPI) pour mesurer l'efficacité des mesures dans le temps.
 
 ---
-[📄 Consulter le rapport complet (PDF)](./docs/.Presentation_Analyse_Risques_SaaS.pdf)
+[📄 Consulter le rapport complet (PDF)](./docs/Presentation_Analyse_Risques_SaaS.pdf)
