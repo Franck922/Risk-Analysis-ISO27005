@@ -1,4 +1,4 @@
-# 🛡️ Analyse de Risques SSI — Méthode ISO/IEC 27005
+# 🛡️ Analyse de Risques SSI selon la Méthode ISO/IEC 27005
 > **Gouvernance, Risque et Conformité (GRC) | Étude de cas secteur Distribution**
 
 Ce projet simule une mission de conseil pour une chaîne nationale de distribution. L'objectif était de structurer une démarche de gestion des risques conforme aux standards internationaux pour protéger les actifs critiques de l'organisation.
